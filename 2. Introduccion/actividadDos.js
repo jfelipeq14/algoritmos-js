@@ -1,0 +1,1 @@
+// Hacer un algoritmo que lea el nombre de una persona, el número de horas que estudia en la semana y muestre el porcentaje de tiempo que dedica a estudiar y la cantidad de minutos que dedica a estudiar.
