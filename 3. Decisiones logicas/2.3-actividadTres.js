@@ -1,0 +1,1 @@
+// Crear un algoritmo que le permita al usuario ingresar los datos de dos buses así: Placa, El número de pasajeros transportado y el valor del pasaje, y el computador le muestre la placa del bus que más dinero recogió.
