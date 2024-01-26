@@ -1,0 +1,1 @@
+// Escribir un algoritmo donde el usuario pueda ingresar el nombre de un estudiante y las 4 notas que obtuvo en una materia, y el computador le muestre el nombre, la nota definitiva (suponga que todas tienen un mismo porcentaje) y un mensaje que diga si gana, puede habilitar o pierde la materia.
